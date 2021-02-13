@@ -8,7 +8,7 @@ Use Google Cloud "Speech to Text" for input and system "Text to Speech" as outpu
 
 1. Clone this repository, then `npm install`
 
-2. Follow the "Google Service Account key" instructions and set `GOOGLE_APPLICATION_CREDENTIALS` in your `.env` file.
+2. Check "Google Service Account key" instructions and set `GOOGLE_APPLICATION_CREDENTIALS`.
 
 3. Execute with `node rock-paper-scissors.js`
 
