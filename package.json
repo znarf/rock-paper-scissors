@@ -8,7 +8,6 @@
     "prettier:write": "npm run prettier -- --write && prettier-package-json --write"
   },
   "dependencies": {
-    "deepspeech": "^0.9.3",
     "dotenv": "^8.2.0",
     "google-speech-from-buffer": "0.0.2",
     "mic-to-speech": "^1.0.1",
